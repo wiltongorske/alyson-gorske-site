@@ -4,7 +4,7 @@ Open-source code bank for the personal website of Alyson Gorske.
 
 This repository contains the static site code, assets, and SEO metadata used to publish the site on GitHub Pages.
 
-![Alyson Gorske headshot](./images/Alyson-Gorske-Headshot.jpg)
+<img src="./images/Alyson-Gorske-Headshot.jpg" alt="Alyson Gorske headshot" width="128">
 
 ## Notes
 

@@ -547,49 +547,6 @@ figcaption {
   margin-bottom: 50px;
 }
 
-.work-image {
-  text-align: center;
-  background-color: #f4f4f4;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg');
-  background-position: 50%;
-  background-size: cover;
-  flex-direction: column;
-  justify-content: center;
-  align-items: stretch;
-  height: 460px;
-  margin-bottom: 40px;
-  text-decoration: none;
-  display: flex;
-}
-
-.work-image:hover {
-  opacity: .8;
-}
-
-.work-image:active {
-  opacity: .7;
-}
-
-.work-image.cc-work-1 {
-  background-image: url('../images/portfolio-1---wide.svg');
-  background-size: cover;
-}
-
-.work-image.cc-work-2 {
-  background-image: url('../images/portfolio-2---wide.svg');
-  background-size: cover;
-}
-
-.work-image.cc-work-4 {
-  background-image: url('../images/portfolio-3---wide.svg');
-  background-size: cover;
-}
-
-.work-image.cc-work-3 {
-  background-image: url('../images/portfolio-4---wide.svg');
-  background-size: cover;
-}
-
 .project-name-link {
   margin-bottom: 5px;
   font-family: Universltstd, sans-serif;
@@ -1113,10 +1070,6 @@ figcaption {
 
   .carrer-headline-wrap {
     width: auto;
-  }
-
-  .work-image {
-    margin-bottom: 30px;
   }
 
   .contact {
