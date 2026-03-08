@@ -11,3 +11,4 @@ This repository contains the static site code, assets, and SEO metadata used to 
 - Built as a lightweight static website.
 - Intended as the source for the live personal site.
 - Kept public as an open reference for the website code and content structure.
+- This README was created with help from an LLM.
